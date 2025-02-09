@@ -1,3 +1,4 @@
+--!nolint
 local re = Instance.new("RemoteEvent")
 
 re:FireServer(game.Players.LocalPlayer)
